@@ -1,1 +1,18 @@
+his folder includes the study material from the Basic Electronics course.
+It follows the structure of the course and the main reference: *"Microelectronics" by Jacob Millman.*
 
+## Course Topics
+1. **Semiconductor Materials**  
+   Energy bands, intrinsic and extrinsic semiconductors, doping.
+
+2. **P–N Junction and Diodes**  
+   Junction behavior, biasing, diode equation, types of diodes.
+
+3. **Bipolar Junction Transistors (BJTs)**  
+   Construction, operation modes, input/output characteristics.
+
+4. **Field Effect Transistors (FETs)**  
+   JFET, MOSFET, transfer characteristics, biasing.
+
+5. **Applications**  
+   Rectifiers, amplifiers, logic circuits.
