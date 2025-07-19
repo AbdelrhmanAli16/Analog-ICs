@@ -1,1 +1,13 @@
+This folder contains all the problem sheets (assignments, tutorials, or practice problems) from the Basic Electronics course, along with my own detailed solutions.
 
+## Structure
+- The original sheet (usually in PDF format)
+- My handwritten or typed solutions
+
+## Topics Covered
+The sheets cover:
+- Diode circuits and rectifiers
+- Clipping/clamping applications
+- BJT biasing and small-signal models
+- FET biasing and amplifier basics
+- Basic analog applications
