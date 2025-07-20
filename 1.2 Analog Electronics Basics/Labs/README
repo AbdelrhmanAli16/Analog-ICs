@@ -1,1 +1,45 @@
+This folder contains the practical lab experiments for the **Analog Electronics Basics** course.
+Each lab was implemented both on **hardware test boards** and simulated using **Proteus**.
+The focus was on understanding amplifier behavior in real-world conditions.
 
+---
+
+## Lab Experiments Overview
+
+### 🔹 **Lab 1: Common Emitter (CE) Amplifier**
+- Basic BJT amplifier design
+- Biasing and small-signal gain
+- Input/output waveform measurements
+- Simulation and hardware comparison
+
+### 🔹 **Lab 2 & 3: Frequency Response of Amplifiers**
+- Measuring -3dB cutoff frequencies
+- High and low frequency behavior
+- Bode plot estimation
+- RC coupling effects
+
+### 🔹 **Lab 4: Direct Coupled Amplifier**
+- DC biasing in multistage circuits
+- DC vs AC response
+- Drift and stability
+
+### 🔹 **Lab 5: Differential Amplifier**
+- Building and testing MOS/BJT differential pairs
+- Measuring differential and common-mode gain
+- Tail current source implementation
+
+---
+
+## Tools Used
+
+- **Proteus** for circuit simulation
+- **Breadboard/Test board** for real circuit implementation
+- **Oscilloscope** and **Function Generator** for measurement
+
+Each lab folder includes:
+- Circuit diagrams
+- Simulation files/screenshots
+- Photos of hardware setups
+- Measurements and observations
+
+---
