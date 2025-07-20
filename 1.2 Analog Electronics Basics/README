@@ -1,1 +1,62 @@
+# Analog Electronics Course
+
+This folder contains the complete materials for the **Analog Electronics Basics** course.
+a continuation of foundational analog design, focused on amplifiers, frequency response, and differential circuits.
+The course combines theory, practical labs, and problem-solving to build solid analog circuit design skills.
+
+---
+
+## Topics Covered
+
+1. **BJT as an Amplifier**  
+   Small-signal models, CE/CB/CC configurations, biasing.
+
+2. **MOSFET as an Amplifier**  
+   CS, CG, CD amplifiers, small-signal modeling.
+
+3. **Frequency Response**  
+   Bode plots, bandwidth estimation, Miller effect.
+
+4. **Multistage Amplifiers**  
+   Gain staging, loading effects, direct coupling.
+
+5. **Differential Amplifiers**  
+   MOS and BJT diff-pairs, common-mode rejection, tail current sources.
+
+> **Reference Textbooks**:  
+> – *Microelectronics* by Sedra & Smith  
+> – *Electronic Devices* by Floyd
+
+---
+
+## Folder Structure
+
+### `/lectures/`  
+Detailed lecture notes organized by topic. May include circuit diagrams, summaries, and derivations.
+
+### `/labs/`  
+Practical lab experiments simulated in **Proteus** and built using test boards:
+- CE amplifier
+- Frequency response analysis
+- Direct coupling
+- Differential pair circuits
+
+Each lab includes:
+- Circuit diagrams
+- Simulation results
+- Photos and measurements
+- Observations and analysis
+
+### `/sheets/`  
+Problem sheets Focused on:
+- Small-signal analysis
+- Frequency response calculations
+- Biasing and amplifier design
+
+---
+
+## Tools Used
+
+- **Proteus** for simulation  
+- **Hardware test boards** for real implementation  
 
