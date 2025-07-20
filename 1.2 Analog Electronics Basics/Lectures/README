@@ -1,1 +1,35 @@
+This folder contains lectures, notes, and supporting material from the **Analog Electronics Basics** course — the second core course in my analog IC design learning path.
+This course focuses on small-signal models, amplifier behavior, and frequency response — essential building blocks in analog circuit design.
 
+---
+
+## Course Topics
+
+1. **The BJT as an Amplifier**  
+   - Small-signal models (π and T-models)  
+   - Common emitter, base, and collector configurations  
+   - Biasing and operating point
+
+2. **The MOSFET as an Amplifier**  
+   - Small-signal MOS models  
+   - CS, CG, CD amplifier types  
+   - Biasing techniques
+
+3. **Amplifier Frequency Response**  
+   - Low-frequency and high-frequency response  
+   - Bode plots, bandwidth estimation  
+   - Miller effect and dominant poles
+
+4. **Multistage Amplifiers**  
+   - Gain staging  
+   - Loading effects  
+   - Coupling and bypass capacitors
+
+5. **The Differential Amplifier**  
+   - MOS and BJT differential pairs  
+   - Common-mode rejection  
+   - Tail current sources
+
+> **Reference Textbooks:**  
+> – *Microelectronics* by **Sedra & Smith**  
+> – *Electronic Devices* by **Floyd**
