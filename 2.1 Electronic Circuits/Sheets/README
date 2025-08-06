@@ -1,1 +1,22 @@
+# Sheets – Electronic Circuits (All Parts)
+
+This folder collects all problem sheets and their corresponding solutions for both parts of the **Electronic Circuits** course:
+
+- **Part I – Operational Amplifiers**
+- **Part II – Core Analog Building Blocks** (Feedback, Power Amplifiers, Current Mirrors, Differential Amps)
+
+##  Overview
+
+Each problem sheet is designed to strengthen your understanding of the concepts taught in the lectures.
+These exercises include both theoretical derivations and practical circuit problems.
+
+##  Organization
+
+Sheets are grouped by part:
+- `Part1/` → Op-Amp focused sheets and solutions  
+- `Part2/` → Sheets related to feedback, power stages, current mirrors, and differential pairs
+
+Each subfolder includes:
+- Problem sheets (PDFs)  
+- Fully solved versions with explanations  
 
