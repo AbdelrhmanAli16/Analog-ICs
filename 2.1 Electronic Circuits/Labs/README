@@ -1,1 +1,31 @@
+This folder contains practical lab experiments that reinforce the theoretical concepts discussed in the lectures of the Electronic Circuits course.
+All simulations are performed using Proteus, and all related files are uploaded and organized by topic.
 
+## Lab Topics
+1. Operational Amplifiers
+Inverting and Non-Inverting Configurations
+Op-Amp as a Comparator
+Op-Amp-based Integrator and Differentiator
+Practical limitations: slew rate, offset, saturation
+
+2. Feedback Amplifiers
+Closed-loop gain behavior
+Effect of negative feedback on gain, input/output resistance
+Frequency response with and without feedback
+Stability considerations in feedback systems
+
+3. Current Mirrors
+Basic Current Mirror using BJTs and MOSFETs
+Accuracy vs. output resistance
+Cascode Current Mirror simulation
+Current biasing applications
+
+## Simulation Environment
+Tool Used: Proteus
+File Types: .DSN (design file), .PDSPRJ (project file), and simulation-ready circuit diagrams
+
+## Each lab includes:
+Circuit schematic
+Testbench setup (DC/AC analysis or transient response)
+Probe points and simulation parameters
+Optional notes or result captures
