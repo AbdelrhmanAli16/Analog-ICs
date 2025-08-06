@@ -1,1 +1,29 @@
+# Lectures – Electronic Systems (Part II: Oscillators, Multivibrators & Regulators)
 
+This section contains lecture material from the second part of the *Electronic Systems* course, focusing on signal generation and power regulation circuits.
+The topics cover a variety of oscillator types, waveform generators, multivibrator circuits, and voltage regulators—essential building blocks in analog and mixed-signal systems.
+
+---
+
+## Topics Covered
+
+### 1. **Wave Generators & Oscillators**
+- **RC Oscillators** (e.g., Phase-shift, Wien Bridge)
+- **LC Oscillators** (e.g., Hartley, Colpitts)
+- **Crystal Oscillators** for high-frequency stability
+- Criteria for sustained oscillation (Barkhausen condition)
+- Practical design and startup conditions
+
+### 2. **Multivibrators**
+- **Astable Multivibrator** – Generates square waves without external triggering  
+- **Monostable Multivibrator** – One-shot pulse generator  
+- **Bistable Multivibrator** – Flip-flop-like behavior  
+- Timing diagrams and pulse width control  
+- Application in timing, switching, and digital interfacing
+
+### 3. **Voltage Regulators**
+- **Linear Regulators** (Series and Shunt types)  
+- **Zener Diode-based Regulation**  
+- **IC Regulators** (e.g., 78XX, 79XX families)  
+- Load regulation, line regulation, dropout voltage  
+- Efficiency considerations
