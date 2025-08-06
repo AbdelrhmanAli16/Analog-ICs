@@ -1,1 +1,35 @@
+# Labs – Electronic Systems
 
+This folder contains the laboratory work completed for the **Electronic Systems** course.
+All labs were performed using both **Proteus simulation** and **hardware testboard implementation**, allowing practical validation of theoretical concepts covered in lectures.
+
+---
+
+##  Topics Covered
+
+1. **Active Filters**  
+   - Low Pass, High Pass, Band Pass Filters  
+   - Butterworth and Chebyshev implementations  
+   - Frequency response verification using virtual instruments  
+
+2. **Oscillators**  
+   - RC Phase Shift and Wien Bridge Oscillators  
+   - LC and Crystal Oscillators  
+   - Signal generation observed on virtual oscilloscope  
+
+3. **Multivibrators**  
+   - Astable, Monostable, and Bistable configurations  
+   - Timing analysis and output waveform observation  
+
+4. **Voltage Regulators**  
+   - Zener-based linear regulators  
+   - IC regulators (e.g., 7805, LM317)  
+   - Load regulation and ripple suppression tests  
+
+---
+
+##  Tools Used
+
+-**Proteus Design Suite** (for simulation)  
+-**Breadboard/Testboard** (for hardware prototyping)  
+-**Function Generator, Oscilloscope, DC Power Supply** (for measurements)
