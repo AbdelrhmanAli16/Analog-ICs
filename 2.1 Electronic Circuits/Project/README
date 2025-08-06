@@ -1,1 +1,27 @@
+# Project – Infrared Sensor Testboard
 
+This folder contains the complete documentation, simulation, and hardware design for a custom **Infrared (IR) Sensor System**.
+The project includes both simulation in **Proteus** and a functional hardware implementation using a custom-built testboard and power supply.
+
+##  Project Overview
+The goal of this project is to **design, simulate, and implement an IR sensor-based detection circuit** using discrete analog components.
+A dedicated **power supply testboard** was also developed to provide the required regulated voltage for the IR system.
+
+##  Components and Subsystems
+1. Infrared Sensor Module
+- IR emitter and photodiode/phototransistor pair  
+- Signal conditioning with Op-Amps (comparator, amplifier stages)  
+- Output LED indicator for detection  
+- Sensitivity control via potentiometer
+
+2. Power Supply Unit
+- Built on a separate testboard  
+- Converts AC to DC (e.g., 5V or 9V)  
+- Includes transformer, bridge rectifier, filter capacitor, voltage regulator  
+- Supplies power to IR sensor board
+
+##  Simulation
+- **Tool:** Proteus  
+- **Files:** `.DSN`, `.PDSPRJ`  
+- Includes full schematic of the IR system and power supply  
+- Real-time detection behavior visualized via LED and waveform probes
