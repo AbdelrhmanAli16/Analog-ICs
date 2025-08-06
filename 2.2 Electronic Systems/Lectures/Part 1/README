@@ -1,1 +1,48 @@
+# Lectures – Electronic Systems (Part I: Active Filters)
 
+This folder contains detailed lecture content on **Active Filters**, which form the first part of the *Electronic Systems* course.
+The focus is on understanding frequency-selective analog circuits and how different filter types are designed, implemented, and applied using operational amplifiers.
+
+---
+
+## Topics Covered
+
+1. **Introduction to Filters**  
+   - Classification: Passive vs. Active, Analog vs. Digital  
+   - Filter characteristics: Frequency response, order, selectivity  
+
+2. **Low Pass Filter (LPF)**  
+   - First and second-order LPFs using Op-Amps  
+   - Frequency response and cut-off frequency  
+
+3. **High Pass Filter (HPF)**  
+   - Implementation using Op-Amps  
+   - Effect of component values on performance  
+
+4. **Band Pass Filter (BPF)**  
+   - Narrow-band and wide-band designs  
+   - Center frequency and bandwidth control  
+
+5. **Butterworth Filter**  
+   - Maximally flat magnitude response  
+   - Design equations and implementation  
+
+6. **Chebyshev Filter**  
+   - Ripple in passband, steeper roll-off  
+   - Type I vs. Type II behavior  
+
+7. **Bessel Filter**  
+   - Linear phase response  
+   - Use in applications requiring signal integrity  
+
+8. **KHN Biquad Filter**  
+   - Tow-Thomas architecture  
+   - Simultaneous LP, HP, BP outputs  
+
+9. **Multiple Feedback Filters (MFB)**  
+   - Filter design using feedback topology  
+   - High selectivity and Q-factor  
+
+10. **State Variable Filters (SVF)**  
+    - Independent control over gain, Q, and ω₀  
+    - Realization of multiple responses from a single circuit
