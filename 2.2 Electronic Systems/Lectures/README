@@ -1,1 +1,31 @@
+# Lectures – Electronic Systems (All Parts)
 
+This folder contains lecture materials from the **Electronic Systems** course, covering two major areas of analog system design: **Active Filters** and **Signal Generation & Regulation Circuits**.
+These topics are essential for building real-world analog front-ends, waveform generators, and regulated power supplies.
+
+---
+
+##  Lecture Structure
+
+### 🔹 Part I – Active Filters
+Focuses on frequency-selective circuits and their implementation using Op-Amps.
+
+- Introduction to Filters  
+- Low Pass, High Pass, and Band Pass Filters  
+- Butterworth, Chebyshev, and Bessel Filters  
+- KHN Biquad Filter  
+- Multiple Feedback and State Variable Filters  
+
+> 📁 See `Lectures/Part1/` for detailed notes and design techniques
+
+---
+
+### 🔹 Part II – Oscillators, Multivibrators & Voltage Regulators
+Covers circuits used for waveform generation, timing control, and power regulation.
+
+- RC, LC, and Crystal Oscillators  
+- Wien Bridge Oscillator  
+- Astable, Monostable, and Bistable Multivibrators  
+- Linear Voltage Regulators (Zener, Series, IC-based)  
+
+> 📁 See `Lectures/Part2/` for circuit analysis and applications
