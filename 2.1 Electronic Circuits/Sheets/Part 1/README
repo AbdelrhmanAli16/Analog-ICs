@@ -1,1 +1,10 @@
+# Sheets – Electronic Circuits (Part I: Operational Amplifiers)
 
+This folder contains problem sheets and their solutions related to **Part I** of the course, which focuses on **Operational Amplifiers**.
+
+##  Topics Covered
+
+- Basic Amplifier Configurations  
+- Op-Amp Internal Architecture  
+- Op-Amp Properties (Gain, CMRR, PSRR, Slew Rate, etc.)  
+- Op-Amp Application Circuits: Inverting, Non-Inverting, Integrators, Differentiators, Filters
