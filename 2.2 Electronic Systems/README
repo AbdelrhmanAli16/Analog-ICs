@@ -1,1 +1,39 @@
+# Electronic Systems
 
+This folder documents the **Electronic Systems** course as part of my personal journey in Analog Integrated Circuit (IC) design.
+It includes structured lectures, problem sheets and solutions, hands-on lab experiments, and complete simulations — with a focus on both theoretical depth and practical implementation.
+
+---
+
+## Course Structure
+
+The course is divided into **two main parts**, each exploring a core area of analog circuit systems:
+
+### 🔹 Part I – Active Filters
+- Introduction to Filters  
+- Low Pass, High Pass, Band Pass Filters  
+- Butterworth, Chebyshev, Bessel Filters  
+- KHN Biquad, Multiple Feedback, and State Variable Filters
+
+### 🔹 Part II – Oscillators & Regulators
+- RC, LC, Crystal, and Wien Bridge Oscillators  
+- Astable, Monostable, and Bistable Multivibrators  
+- Linear Voltage Regulators and IC Regulators
+
+---
+
+## 📁 Repository Organization
+
+### Labs
+
+All lab work was simulated in **Proteus** and then implemented on **testboards**. Topics include:
+- Active filter response measurements  
+- Oscillator waveform generation  
+- Timing analysis of multivibrators  
+- Regulator performance under different loads
+
+Each lab includes:
+- Circuit files  
+- Simulation screenshots  
+- Real hardware images  
+- Full experimental reports
