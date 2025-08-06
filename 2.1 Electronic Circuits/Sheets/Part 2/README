@@ -1,1 +1,10 @@
+# Sheets – Electronic Circuits (Part II: Analog Building Blocks)
 
+This folder includes problem sheets and solutions from **Part II** of the Electronic Circuits course. These sheets focus on key analog subcircuits used in both discrete and integrated design.
+
+##  Topics Covered
+
+- Feedback Amplifier Analysis and Stability  
+- Power Amplifier Classes and Efficiency  
+- Current Mirror Operation and Variants  
+- Differential Pair Analysis and Common-Mode Rejection
