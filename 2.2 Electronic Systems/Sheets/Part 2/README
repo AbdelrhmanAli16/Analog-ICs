@@ -1,1 +1,12 @@
+# Sheets – Electronic Systems (Part II: Oscillators & Regulators)
 
+This folder contains problem sheets and detailed solutions for **Part II** of the *Electronic Systems* course, covering waveform generation and voltage regulation circuits.
+
+## Topics Covered
+
+- RC and LC Oscillator design  
+- Wien Bridge and Crystal Oscillators  
+- Monostable, Bistable, and Astable Multivibrators  
+- Frequency and timing control in multivibrators  
+- Zener-based and IC voltage regulators  
+- Load and line regulation calculations
