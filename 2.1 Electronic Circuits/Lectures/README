@@ -1,1 +1,26 @@
+This folder contains structured lecture materials from the Electronic Circuits course.
+The content is divided into two parts, covering both the fundamental and advanced building blocks of analog circuit design.
+These lectures are part of my personal journey in analog IC design and are supplemented with notes, simulations, and circuit analysis.
 
+# Lecture Structure
+🔹 Part I – Operational Amplifiers
+Focuses on the theory, internal architecture, and applications of Op-Amps, a key component in analog systems.
+
+-Introduction to Amplifiers
+
+-Operational Amplifier Architecture
+
+-Op-Amp Properties and Performance Metrics
+
+-Op-Amp Applications in Signal Conditioning and Processing
+
+🔹 Part II – Core Analog Building Blocks
+Covers essential analog subcircuits commonly used in both discrete circuits and IC design.
+
+-Feedback Amplifiers
+
+-Power Amplifiers
+
+-Current Mirrors
+
+-Differential Amplifiers
