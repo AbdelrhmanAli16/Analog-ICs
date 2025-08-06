@@ -1,1 +1,23 @@
+Welcome to the Lectures section of the Electronic Circuits course.
+This part focuses on the theory and design principles of Operational Amplifiers (Op-Amps) — a foundational component in analog circuit design.
+
+# Topics Covered
+
+1. Introduction to Amplifiers
+-Basic amplifier concepts
+-Gain types: voltage, current, and power
+-Brief on frequency response
+
+2. Operational Amplifier Architecture
+-Internal building blocks (differential pair, current mirrors, gain/output stages)
+-Importance of each block in performance
+
+3.Operational Amplifier Properties
+-Ideal vs. real Op-Amp behavior
+-Key parameters: input/output resistance, gain, bandwidth, CMRR, PSRR, slew rate, offset, and more
+
+4.Operational Amplifier Applications
+-Inverting and non-inverting amplifiers
+-Integrators, differentiators, filters
+-Use in signal conditioning, comparators, and analog computation
 
