@@ -1,1 +1,60 @@
+#  Electronic Circuits
+This folder documents my complete study of the **Electronic Circuits** course, as part of my personal analog IC design journey.
+It includes carefully organized lectures, solved sheets, lab simulations, and a final project — all focused on building strong practical and theoretical understanding in analog design.
+
+---
+
+##  Folder Structure
+
+### Lecture Breakdown
+The lectures are divided into two parts:
+#### Part I – Operational Amplifiers
+- Amplifier basics and Op-Amp architecture  
+- Ideal vs. real Op-Amp properties  
+- Inverting/non-inverting configurations, filters, and comparators  
+
+#### Part II – Core Analog Building Blocks
+- Feedback theory and amplifier stability  
+- Power amplifiers (Class A, B, AB)  
+- Current mirrors (basic, cascode)  
+- Differential amplifiers and biasing circuits  
+
+> 📁 See: `Lectures/` for detailed content and summaries  
+> 📁 See: `Sheets/Part1/` and `Sheets/Part2/` for problem-solving practice
+
+---
+
+###  Labs
+Hands-on simulations of analog subcircuits using **Proteus**, including:
+- Op-Amp configurations and applications  
+- Feedback loop behavior and gain control  
+- Current mirror topologies and performance metrics
+
+Each lab includes schematic files (`.DSN`, `.PDSPRJ`) and testbench setup.
+
+> 📁 See: `Labs/` folder
+
+---
+
+###  Final Project
+A complete analog system built using discrete components:
+
+**Infrared Sensor Testboard**
+- Includes IR emitter + photodiode  
+- Signal conditioning with Op-Amps  
+- Indicator LED for detection  
+- Powered using a custom-designed power supply on a separate testboard  
+- Simulated using Proteus and implemented in hardware
+
+> 📁 See: `Project/` for design files, simulation, photos, and report
+
+---
+
+###  Tools Used
+- **Proteus** for circuit simulation  
+- **Handwritten and typed notes** for conceptual understanding  
+- **Breadboard + soldered testboards** for physical implementation  
+- Organized in Markdown for GitHub-based presentation and tracking
+
+
 
