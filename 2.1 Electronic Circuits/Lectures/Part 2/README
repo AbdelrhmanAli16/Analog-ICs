@@ -1,1 +1,27 @@
+This section continues the core concepts of analog circuit design, focusing on key building blocks used in both discrete and integrated systems.
+The topics in this part serve as a bridge between basic amplifier theory and more advanced analog IC design practices.
 
+# Topics Covered
+1.Feedback Amplifiers
+-Fundamentals of feedback in amplifiers
+-Negative vs. positive feedback
+-Effects on gain, bandwidth, input/output resistance, stability
+-Topologies: voltage-voltage, current-voltage, etc.
+
+2.Power Amplifiers
+-Classification (Class A, B, AB, etc.)
+-Efficiency and distortion trade-offs
+-Push-pull operation and biasing techniques
+-Thermal considerations and practical constraints
+
+3.Current Mirrors
+-Basic current mirror operation
+-Improved designs: Wilson, cascode mirrors
+-Output resistance, accuracy, compliance range
+-Role in biasing and active loads in analog ICs
+
+4.Differential Amplifiers
+-Operation principles and common-mode rejection
+-Single-ended vs. differential outputs
+-Input-output characteristics
+-Role in the input stage of Op-Amps
