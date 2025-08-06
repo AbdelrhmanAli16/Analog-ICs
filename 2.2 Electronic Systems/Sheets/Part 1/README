@@ -1,1 +1,16 @@
+# Sheets – Electronic Systems (Part I: Active Filters)
 
+This folder contains problem sheets and their complete solutions related to **Active Filters**, which are covered in Part I of the *Electronic Systems* course.
+
+## Topics Covered
+
+- Filter classifications and frequency response  
+- Low Pass, High Pass, and Band Pass filters  
+- Butterworth, Chebyshev, and Bessel filter designs  
+- KHN Biquad and Multiple Feedback filter topologies  
+- State Variable Filter analysis
+
+## Folder Structure
+
+- `Sheet.pdf` – Problem sheet for a specific topic  
+- `Sheet_Solution.pdf` – Fully worked solution with circuit analysis and derivations 
